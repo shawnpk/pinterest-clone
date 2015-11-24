@@ -14,6 +14,8 @@ gem 'jquery-turbolinks'
 gem 'masonry-rails'
 gem 'therubyracer'
 gem 'execjs'
+gem 'will_paginate', '~> 3.0.6'
+gem 'will_paginate-bootstrap'
 
 gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
